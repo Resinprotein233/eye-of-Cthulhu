@@ -1,17 +1,14 @@
- print(“           /n/
-_______            /n/
-< hello >          /n/
- -------           /n/
-   \               /n/
-    \              /n/
-        .--.       /n/
-       |o_o |      /n/
-       |:_/ |      /n/
-      //   \ \     /n/
-     (|     | )    /n/
-    /'\_   _/`\    /n/
+sharaxa='''
+< Eye Of Cthulhu>
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
     \___)=(___/
-       
-print("welcom to use this tool")
-print("you can temp '?'to find the help")
-
+    welcom!
+    '''
+print(sharaxa)
